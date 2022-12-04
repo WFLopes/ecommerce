@@ -3,7 +3,7 @@
         'name' => 'hcodebr/ecommerce',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '428624b320a40af272e223ffe08a393f6d48aaaf',
+        'reference' => '82f27a4f4bd424188927b92c0335096c4d9a72b5',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'hcodebr/ecommerce' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '428624b320a40af272e223ffe08a393f6d48aaaf',
+            'reference' => '82f27a4f4bd424188927b92c0335096c4d9a72b5',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
